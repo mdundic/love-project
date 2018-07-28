@@ -59,3 +59,4 @@ $response->send();
 
 $kernel->terminate($request, $response);
 testsdfdsf
+testsdfdsf
